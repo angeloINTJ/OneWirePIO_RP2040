@@ -206,3 +206,7 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 - Dallas Semiconductor / Maxim Integrated for the 1-Wire protocol specification
 - Raspberry Pi Foundation for the RP2040 PIO architecture
 - The Arduino-Pico community for the RP2040 Arduino core
+
+- ## See Also
+
+- [DHT22PIO_RP2040)](https://github.com/angeloINTJ/DHT22PIO_RP2040) — PIO-accelerated DHT22 library by the same author

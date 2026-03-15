@@ -30,10 +30,10 @@ All critical 1-Wire timing is offloaded to the RP2040's PIO coprocessor — zero
 
 ```
 Pico GP2 ──┬── DS18B20 DQ (Data)
-            │
-           4.7kΩ
-            │
-           3.3V
+           │
+         4.7kΩ
+           │
+         3.3V
 
 DS18B20 VDD ── 3.3V
 DS18B20 GND ── GND

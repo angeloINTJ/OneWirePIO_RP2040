@@ -1,0 +1,29 @@
+{
+    "name": "OneWirePIO_RP2040",
+    "version": "1.0.0",
+    "description": "Hardware-accelerated 1-Wire and DS18B20 library using the RP2040 PIO coprocessor. Zero bit-banging, deterministic timing.",
+    "keywords": [
+        "onewire",
+        "1-wire",
+        "ds18b20",
+        "temperature",
+        "pio",
+        "rp2040",
+        "pico",
+        "pico-w",
+        "dma",
+        "hardware-accelerated"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/angeloINTJ/OneWirePIO_RP2040.git"
+    },
+    "authors": [
+        {
+            "name": "Ângelo"
+        }
+    ],
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "raspberrypi"
+}

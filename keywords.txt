@@ -1,0 +1,41 @@
+# ============================================================
+# Syntax Coloring Map for OneWirePIO_RP2040
+# ============================================================
+
+# Classes (KEYWORD1 — orange in Arduino IDE)
+OneWirePIO	KEYWORD1
+DS18B20PIO	KEYWORD1
+
+# Methods (KEYWORD2 — brown)
+begin	KEYWORD2
+setPin	KEYWORD2
+sendReset	KEYWORD2
+isSensorPresent	KEYWORD2
+writeByte	KEYWORD2
+readByte	KEYWORD2
+requestTemperatures	KEYWORD2
+getTemperatureValidated	KEYWORD2
+getDiagnosticData	KEYWORD2
+setResolution	KEYWORD2
+getConversionDelay	KEYWORD2
+readROM	KEYWORD2
+getState	KEYWORD2
+getLastErrorString	KEYWORD2
+calculateCRC	KEYWORD2
+
+# Constants (LITERAL1 — blue)
+CMD_SKIP_ROM	LITERAL1
+CMD_READ_ROM	LITERAL1
+CMD_READ_SCRATCHPAD	LITERAL1
+CMD_WRITE_SCRATCHPAD	LITERAL1
+CMD_CONVERT_T	LITERAL1
+RES_9_BIT	LITERAL1
+RES_10_BIT	LITERAL1
+RES_11_BIT	LITERAL1
+RES_12_BIT	LITERAL1
+CELSIUS	LITERAL1
+FAHRENHEIT	LITERAL1
+KELVIN	LITERAL1
+OK	LITERAL1
+ERROR_NO_SENSOR	LITERAL1
+ERROR_CRC	LITERAL1

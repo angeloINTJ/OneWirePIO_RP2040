@@ -23,7 +23,7 @@
  *                3.3V
  * @endcode
  *
- * @author Ângelo
+ * @author Ângelo Moisés Alves
  * @version 1.0.0
  * @license MIT
  */

@@ -4,10 +4,10 @@
  *
  * Wiring:
  *   GP2 ──┬── DS18B20 DQ
- *          │
- *         4.7kΩ
- *          │
- *         3.3V
+ *         │
+ *        4.7kΩ
+ *         │
+ *        3.3V
  *
  * This is the simplest possible sketch: initialize, request, wait, read.
  * Open Serial Monitor at 115200 baud to see the output.

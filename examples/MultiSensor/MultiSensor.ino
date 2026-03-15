@@ -7,8 +7,8 @@
  *
  * Wiring (each sensor needs its own 4.7kΩ pull-up to 3.3V):
  *   GP2 ──┬── DS18B20 #1 DQ     GP3 ──┬── DS18B20 #2 DQ
- *          4.7kΩ                        4.7kΩ
- *         3.3V                         3.3V
+ *       4.7kΩ                       4.7kΩ
+ *       3.3V                        3.3V
  */
 
 #include <OneWirePIO.h>

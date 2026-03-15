@@ -22,7 +22,7 @@
  * @note This header is auto-generated from onewire_protocol.pio.
  *       Do not edit manually unless you understand RP2040 PIO assembly.
  *
- * @author Ângelo
+ * @author Ângelo Moisés ALves
  * @version 1.0.0
  * @license MIT
  */

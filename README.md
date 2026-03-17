@@ -63,7 +63,7 @@ lib_deps =
 
 ### Arduino Library Manager
 
-Open the Arduino IDE, go to **Sketch → Include Library → Manage Libraries...**, search for `DHT22PIO_RP2040` and click **Install**.
+Open the Arduino IDE, go to **Sketch → Include Library → Manage Libraries...**, search for `OneWirePIO_RP2040` and click **Install**.
 
 ## Quick Start
 

@@ -209,4 +209,4 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ## See Also
 
-- [DHT22PIO_RP2040)](https://github.com/angeloINTJ/DHT22PIO_RP2040) — PIO-accelerated DHT22 library by the same author
+- [DHT22PIO_RP2040](https://github.com/angeloINTJ/DHT22PIO_RP2040) — PIO-accelerated DHT22 library by the same author
